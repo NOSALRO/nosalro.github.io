@@ -67,7 +67,7 @@
 
 ![Dionis Totsila](images/dt.jpg){: style="width:10%"}
 
-**Short bio:** [Under Construction]
+**Short bio:** Dionis Totsila is in his final year of studies of a 5-year Computer Engineering diploma, at the University of Patras, Greece. He currently works as a Robotics Engineer at Ragdoll Dynamics, where his work focuses on integrating robotic control and simulation principles in Maya to improve the workflow of animators. His research interests include continuous control using dynamical system-based policies, motion planning, machine learning, and legged locomotion.
 
 **Website:** [https://github.com/DionisTotsila](https://github.com/DionisTotsila)
 
