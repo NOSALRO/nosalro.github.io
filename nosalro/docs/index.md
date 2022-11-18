@@ -1,1 +1,0 @@
-# Welcome to NOSALRO project's webpage

@@ -1,0 +1,57 @@
+site_name: NOSALRO
+site_url: https://nosalro.github.io
+
+nav:
+  - Home: index.md
+  - Team: team.md
+  - News: news.md
+  # - Publications: publications.md
+  # - Videos: videos.md
+  # - Contact: contact.md
+
+theme:
+  name: material
+  favicon: images/nosalro_logov1.png
+  logo: images/nosalro_logov1.png
+  features:
+    - navigation.tabs
+    - navigation.tabs.sticky
+    - navigation.sections
+    - navigation.top
+  palette:
+  # Palette toggle for dark mode
+  - scheme: slate
+    primary: white
+    accent: pink
+    toggle:
+      icon: material/lightbulb
+      name: Switch to light mode
+
+  # Pallete toggle for light mode
+  - scheme: default
+    primary: black
+    accent: pink
+    toggle:
+      icon: material/lightbulb-outline
+      name: Switch to dark mode
+
+plugins:
+  - search
+
+markdown_extensions:
+  - attr_list
+  - md_in_html
+  - toc:
+      toc_depth : "1-1"
+
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/NOSALRO
+      name: NOSALRO on GitHub
+    - icon: fontawesome/brands/youtube
+      link: https://www.youtube.com/
+      name: NOSALRO on YouTube
+    - icon: fontawesome/brands/twitter
+      link: https://twitter.com/
+      name: NOSALRO on Twitter
