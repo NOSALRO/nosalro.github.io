@@ -11,8 +11,8 @@ nav:
 
 theme:
   name: material
-  favicon: images/nosalro_logov1.png
-  logo: images/nosalro_logov1.png
+  favicon: images/nosalro_logov1.svg
+  logo: images/nosalro_logov1.svg
   features:
     - navigation.tabs
     - navigation.tabs.sticky

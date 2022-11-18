@@ -75,6 +75,6 @@
 
 ![Agisilaos Kounelis](images/ak.jpg){: style="width:10%"}
 
-**Short bio:** [Under Construction]
+**Short bio:** Agisilaos Kounelis is a Computer Engineering & Informatics graduate from the University of Patras, Greece. In the past, he has been an intern for CERN, Amazon, and Microsoft and has participated twice in Google Summer of Code with Mozilla and KDE. He has attended various coding competitions, and he is a recipient of several distinctions from some of the most prestigious hackathons in the world. He has also collaborated with EPFL and Inria Nancy Research Centre and co-authored two research papers. His recent research interests include privileged learning methods for learning robot controllers, the area of focus of his diploma thesis.
 
 **Website:** [https://www.linkedin.com/in/kounelisagis](https://www.linkedin.com/in/kounelisagis)
