@@ -19,13 +19,13 @@
 
 ![Research Associate](https://upload.wikimedia.org/wikipedia/commons/b/bc/Unknown_person.jpg){: style="width:10%"}
 
-**We are seeking for a full time research associate to join the project.**
+**We are seeking for a full time research associate to join the project.** [Contact us if you are interested!](contact.md)
 
 ## Research Associate
 
 ![Research Associate](https://upload.wikimedia.org/wikipedia/commons/b/bc/Unknown_person.jpg){: style="width:10%"}
 
-**We are seeking for a part time research associate to join the project.**
+**We are seeking for a part time research associate to join the project.** [Contact us if you are interested!](contact.md)
 
 <!-- ## Konstantinos Tsinganos
 

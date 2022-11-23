@@ -5,9 +5,9 @@ nav:
   - Home: index.md
   - Team: team.md
   - News: news.md
+  - Contact: contact.md
   # - Publications: publications.md
   # - Videos: videos.md
-  # - Contact: contact.md
 
 theme:
   name: material
