@@ -1,5 +1,7 @@
 site_name: NOSALRO
 site_url: https://nosalro.github.io
+site_dir: docs
+docs_dir: src
 
 nav:
   - Home: index.md
