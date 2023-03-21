@@ -7,8 +7,8 @@ nav:
   - Home: index.md
   - Team: team.md
   - News: news.md
+  - Publications: publications.md
   - Contact: contact.md
-  # - Publications: publications.md
   # - Videos: videos.md
 
 theme:
@@ -39,12 +39,18 @@ theme:
 
 plugins:
   - search
+#  - bibtex:
+#      bib_file: refs.bib
+#      cite_inline: False
+#      csl_file: style.csl
+#      bib_by_default: True
 
 markdown_extensions:
   - attr_list
   - md_in_html
   - toc:
       toc_depth : "1-1"
+#  - footnotes
 
 extra:
   social:
