@@ -15,6 +15,14 @@
 
 # Research Team
 
+## Constantinos Tsakonas
+
+![Constantinos Tsakonas](images/ct.jpg){: style="width:10%"}
+
+**Short bio:** Constantinos Tsakonas received his diploma from Computer Engineering and Informatics Department (CEID) from the University of Patras, Greece in 2023. He worked at the IoT Laboratory of the University of Patras as a machine learning engineer and researcher, with a focus on TinyML and AI-enabled embedded systems (2022-2023). He has also participated to Pfizer’s CDI project, "Voice-based Diagnostics" (direct contract with IoT Laboratory), as a machine learning researcher where he worked on neural network architectures for audio data and state-of-the-art digital signal processing techniques. He co-authored two research papers published on ACM Embedded Networked Sensor Systems (SenSys 2022) and a journal published on MDPI Sensors. Additionally, he is a reviewer on conferences considering Artificial Intelligence and Robotics, such as Learning and Intelligent Optimization Conference (LION 2023) and the International Conference on Intelligent Robots and Systems (IROS 2023). Moreover, he has won the local round of a European machine learning hackathon, where the problem formulation and solution review was carried out by Ernst & Young (EY). And later on, he represented the University of Patras at the final round in Milan, IT, competing in a challenge provided by Infineon Technologies. His research interests include artificial intelligence, evolutionary algorithms, optimization, and robot learning.
+
+**Website:** [https://github.com/iamtsac](https://github.com/iamtsac)
+
 ## Konstantinos Tsinganos
 
 ![Konstantinos Tsinganos](images/kt.jpg){: style="width:10%"}
@@ -27,13 +35,7 @@
 
 ![Research Associate](https://upload.wikimedia.org/wikipedia/commons/b/bc/Unknown_person.jpg){: style="width:10%"}
 
-**We are seeking for a full time research associate to join the project.** [Contact us if you are interested!](contact.md)
-
-## Research Associate
-
-![Research Associate](https://upload.wikimedia.org/wikipedia/commons/b/bc/Unknown_person.jpg){: style="width:10%"}
-
-**We are seeking for a part time research associate to join the project.** [Contact us if you are interested!](contact.md)
+**We are seeking for a research associate to join the project.** [Contact us if you are interested!](contact.md)
 
 # Advisory Board
 
