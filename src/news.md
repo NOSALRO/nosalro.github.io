@@ -3,6 +3,19 @@
     -navigation
 ---
 
+## 6th June 2023
+
+We are at Nice (France) for [LION17](https://lion17.org)! On Thursday at 11:30 (French time) we are presenting **"Fast and Robust Constrained Optimization via Evolutionary and Quadratic Programming"**. Excellent collaboration with *Prof. Michael Vrahatis*.
+
+Excellent organization by Kevin Tierney and the rest of the organization team!
+
+- **Paper:** [pdf](http://costashatz.github.io/files/LION17.pdf)
+- **Conference Program:** [full program](https://lion17.org/#program)
+
+On Wednesday morning at 08:45 (French time) we (with Prof. Vrahatis) are also **hosting a special session on "Learning and Intelligent Optimization for Physical Systems"** where we will be presenting our work in progress "Sensorimotor Learning with Stability Guarantees via Autonomous Neural Dynamic Policies"!
+
+![LION17](images/lion17.jpeg){: style="width:40%"}
+
 ## 28th May 2023
 
 We are excited to announce that we have a short paper accepted at the [Life-Long Learning with Human Help (L3H2) Workshop](https://life-long-learning-with-human-help-l3h2.github.io/) at the IEEE International Conference on Robotics and Automation (ICRA). We will be presenting our work in progress on **"Sensorimotor Learning with Stability Guarantees via Autonomous Neural Dynamic Policies"** (paper title: **"End-to-End Stable Imitation Learning via Autonomous Neural Dynamic Policies"**). This is a collaboration of Konstantinos Chatzilygeroudis with the Computer Engineering and Informatics Department of University of Patras (Dionis Totsila and Ioannis Hatzilygeroudis) and the Robot Perception and Learning Lab of UCL (Denis Hadjivelichkov, Valerio Modugno and Dimitrios Kanoulas). *Valerio Modugno* will be giving a short talk and presenting a [poster](files/2023-ICRA-L3H2-Poster-ANDPs.pdf). More information on our paper [here](publications.md).
