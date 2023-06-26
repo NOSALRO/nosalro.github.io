@@ -3,6 +3,10 @@
     -navigation
 ---
 
+## 15th June 2023
+
+We are delighted to share that we have two papers accepted at The Fourteenth International Conference on Information, Intelligence, Systems and Applications ([IISA 2023](https://easyconferences.eu/iisa2023/))! At IISA 2023, we will be presenting **"Effective Skill Learning via Autonomous Goal Representation Learning"** by *C. Tsakonas and K. Chatzilygeroudis* and **"Evolving Dynamic Locomotion Policies in Minutes"** by *K. Chatzilygeroudis, C. Tsakonas and M. Vrahatis*. More information on our papers [here](publications.md). See you at Volos in July!
+
 ## 6th June 2023
 
 We are at Nice (France) for [LION17](https://lion17.org)! On Thursday at 11:30 (French time) we are presenting **"Fast and Robust Constrained Optimization via Evolutionary and Quadratic Programming"**. Excellent collaboration with *Prof. Michael Vrahatis*.
