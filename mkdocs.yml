@@ -9,6 +9,7 @@ nav:
   - News: news.md
   - Publications: publications.md
   - Contact: contact.md
+  - RobotDART: robot_dart
   # - Videos: videos.md
 
 theme:
@@ -57,6 +58,9 @@ extra:
     - icon: fontawesome/brands/github
       link: https://github.com/NOSALRO
       name: NOSALRO on GitHub
+    - icon: fontawesome/brands/linkedin-in
+      link: https://www.linkedin.com/in/nosalro-project-13194a273/
+      name: NOSALRO on LinkedIn
     - icon: fontawesome/brands/youtube
       link: https://www.youtube.com/@nosalro
       name: NOSALRO on YouTube

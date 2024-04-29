@@ -3,6 +3,10 @@
     -navigation
 ---
 
+## 22th April 2024
+
+Our short paper **"Effective Kinodynamic Planning and Exploration through Quality Diversity and Trajectory Optimization"** by *Asimakopoulos, K., Androutsopoulos, A., Vrahatis, M. and Chatzilygeroudis, K.* has been accepted for presentation at the *international conference [LION18](https://www.lion18.unina.it/)*. More information on our paper [here](publications.md). The following presentation-only abstracts have been accepted as well: 1) **"Effective Skill Learning via Autonomous Goal Representation Learning"** by *C. Tsakonas and K. Chatzilygeroudis*, and 2) **"Evolving Dynamic Locomotion Policies in Minutes"** by *K. Chatzilygeroudis, C. Tsakonas and M. Vrahatis*! See you at Ischia in June 2024!
+
 ## 15th June 2023
 
 We are delighted to share that we have two papers accepted at The Fourteenth International Conference on Information, Intelligence, Systems and Applications ([IISA 2023](https://easyconferences.eu/iisa2023/))! At IISA 2023, we will be presenting **"Effective Skill Learning via Autonomous Goal Representation Learning"** by *C. Tsakonas and K. Chatzilygeroudis* and **"Evolving Dynamic Locomotion Policies in Minutes"** by *K. Chatzilygeroudis, C. Tsakonas and M. Vrahatis*. More information on our papers [here](publications.md). See you at Volos in July!

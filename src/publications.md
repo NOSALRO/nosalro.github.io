@@ -5,13 +5,23 @@
 
 ## International Conferences
 
+### 4. Asimakopoulos, K., Androutsopoulos, A., Vrahatis, M. and Chatzilygeroudis, K. 2024. **Effective Kinodynamic Planning and Exploration through Quality Diversity and Trajectory Optimization**. *The 18th learning and intelligent optimization conference (LION).*
+
+   **Abstract:** *Efficient and rapid kinodynamic planning is crucial for numerous real-world robotics applications. Various methods have been proposed to address this challenge, primarily falling into two categories: (a) randomized planners and (b) trajectory optimization utilizing simplified models and numerical optimization. Randomized planners such as RRT and PRM excel in exploring the state space, while trajectory optimization methods, like direct collocation, are adept at discovering optimal trajectories within well-defined spaces. We aim to achieve effective and efficient kinodynamic planning and exploration by integrating evolutionary algorithms (Quality-Diversity) with trajectory optimization. Our preliminary experiments showcase that using the proposed methodology we get the best from both worlds on two simulated experiments.*
+
+   [(view online)](https://costashatz.github.io/files/LION18.pdf)
+
 ### 3. Tsakonas, C. and Chatzilygeroudis, K. 2023. **Effective Skill Learning via Autonomous Goal Representation Learning**. *The Fourteenth International Conference on Information, Intelligence, Systems and Applications (IISA 2023)*
 
    **Abstract:** *A long standing goal of robotics researchers is to develop robots that are able to develop in an autonomous open-ended manner through lifelong learning and interactions. If we are to see robots learning in an autonomous and open-ended manner, we need to develop methods for incremental and autonomous skill discovery and trial-and-error learning. In other words, we want our robots to be able to autonomously select their goals according to their current capabilities and learn controllers or policies to achieve those goals. In this paper, we take a step towards solving this challenge and propose a novel pipeline, called AGRL, that effectively combines deterministic simulations, Variational Auto-Encoders (VAEs) and Reinforcement Learning (RL) and enables robots to learn goal-conditioned policies suited to their capabilities. Our main intuition is that we can use effective exploration strategies in order to learn a good goal representation and distribution, and then use this distribution to generate effective and reachable goals for fast skill learning. We extensively evaluate the proposed method in simulation with a 7DOF manipulator and a differential drive mobile robot.*
 
+   [(view online)](https://costashatz.github.io/files/IISA2023-AGRL.pdf) [(video)](https://www.youtube.com/watch?v=x-j5mid6jxM)
+
 ### 2. Chatzilygeroudis, K., Tsakonas, C. and Vrahatis, M. 2023. **Evolving Dynamic Locomotion Policies in Minutes**. *The Fourteenth International Conference on Information, Intelligence, Systems and Applications (IISA 2023)*
 
    **Abstract:** *Many effective evolutionary methods have been proposed that allow robots to learn how to walk. Most of the proposed methods have one or more of the following drawbacks: (a) utilization of hand designed open loop policies that cannot scale to different robots, and/or (b) requiring big wall time due to sample inefficiency and simulation costs, a fact that limits the practical usage of those algorithms. In the paper at hand, we propose combination of (a) a simplified model for locomotion dynamics, and (b) the effectiveness of quality-diversity algorithms, and propose a novel algorithm that is able to evolve, in less than an hour on a standard computer, generic (e.g. neural network), and reactive locomotion policies. Our approach makes it possible to generate in a few minutes reactive policies for locomotion that can perform dynamic motions like jumps. We also present preliminary results of transferring the behaviors to realistic simulators using a whole body inverse kinematics solver and a joint impedance controller.*
+
+   [(view online)](https://costashatz.github.io/files/IISA2023-EvoLoco.pdf) [(video)](https://www.youtube.com/watch?v=VdyUlAAWMzQ)
 
 ### 1. Chatzilygeroudis, K. and Vrahatis, M. 2023. **Fast and Robust Constrained Optimization via Evolutionary and Quadratic Programming**. *The 17th learning and intelligent optimization conference (LION).*
 

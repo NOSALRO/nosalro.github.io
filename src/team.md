@@ -31,13 +31,13 @@
 
 **Website:** [https://github.com/konassimako](https://github.com/konassimako)
 
-## Konstantinos Tsinganos
+<!-- ## Konstantinos Tsinganos
 
 ![Konstantinos Tsinganos](images/kt.jpg){: style="width:10%"}
 
 **Short bio:** Konstantinos Tsinganos received his diploma (Integrated Master) in Electrical and Computer Engineering from the University of Patras, Greece in 2019 with an expertise in computer software and digital image processing. Following his undergraduate studies, he enrolled for the postgraduate program "Data-driven Computing and Decision Making" at the Department of Computer Engineering and Informatics (CEID), University of Patras, Greece where he obtained a Master of Science degree in 2021. During his postgraduate studies, he supported as teaching assistant the undergraduate courses of databases, object-oriented programming and intelligent systems and robotics. Currently, he is a first year PhD student at CEID pursuing research on Sim2Real methods for visual-based imitation learning. His research interests include robot learning, computer vision and machine learning. In addition to his academic studies, he is a software engineer at Metargus startup located in Patras, Greece where he is responsible for implementing computer vision and video processing pipelines for basketball game events.
 
-**Website:** [https://kostastsing.github.io](https://kostastsing.github.io)
+**Website:** [https://kostastsing.github.io](https://kostastsing.github.io) -->
 
 # Advisory Board
 
