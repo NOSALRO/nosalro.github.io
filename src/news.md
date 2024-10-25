@@ -3,6 +3,14 @@
     -navigation
 ---
 
+## 24th October 2024
+
+Our paper **"RobotDART: a versatile robot simulator for robotics and machine learning researchers"** by *Chatzilygeroudis, K., Totsila, D., and Mouret J.-B.* has been accepted at the *[Journal of Open Source Software (JOSS)](https://joss.theoj.org/)*. More information on our paper [here](publications.md). Read more about our library [here](https://nosalro.github.io/robot_dart/).
+
+## 10th September 2024
+
+Our paper **"Gait Optimization for Legged Systems Through Mixed Distribution Cross-Entropy Optimization"** by *Tsikelis, I., and Chatzilygeroudis, K.* has been accepted for presentation at the *[IEEE-RAS International Conference on Humanoid Robots (Humanoids)](https://2024.ieee-humanoids.org/)*. More information on our paper [here](publications.md). See you at Nancy in November 2024!
+
 ## 22th April 2024
 
 Our short paper **"Effective Kinodynamic Planning and Exploration through Quality Diversity and Trajectory Optimization"** by *Asimakopoulos, K., Androutsopoulos, A., Vrahatis, M. and Chatzilygeroudis, K.* has been accepted for presentation at the *international conference [LION18](https://www.lion18.unina.it/)*. More information on our paper [here](publications.md). The following presentation-only abstracts have been accepted as well: 1) **"Effective Skill Learning via Autonomous Goal Representation Learning"** by *C. Tsakonas and K. Chatzilygeroudis*, and 2) **"Evolving Dynamic Locomotion Policies in Minutes"** by *K. Chatzilygeroudis, C. Tsakonas and M. Vrahatis*! See you at Ischia in June 2024!

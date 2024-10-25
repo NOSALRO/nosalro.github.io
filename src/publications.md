@@ -3,7 +3,26 @@
     -navigation
 ---
 
+## International Journals
+
+### 1. Chatzilygeroudis, K., Dionis, T., Mouret, J.-B. 2024. **RobotDART: a versatile robot simulator for robotics and machine learning researchers**. *Journal of Open Source Software (JOSS).*
+
+   **Abstract:** *Robot simulation plays a pivotal role in robotics and machine learning research, offering a cost-effective and safe means to develop, validate, and benchmark algorithms in various scenarios. With the growing complexity of robotic systems and the increasing demand for data-driven approaches in machine learning, there is a pressing need for versatile and efficient robot simulators that cater to the diverse requirements of researchers. In response to this demand, we introduce RobotDART, a high-performance and versatile robot simulator designed to empower researchers in robotics and machine learning with a powerful and flexible simulation environment.*
+
+   [(view online)](https://joss.theoj.org/papers/10.21105/joss.06771)
+   [(documentation)](https://nosalro.github.io/robot_dart/)
+   [(code)](https://github.com/NOSALRO/robot_dart)
+   [(doi)](https://doi.org/10.21105/joss.06771)
+
 ## International Conferences
+
+### 5. Tsikelis, I.\*, and Chatzilygeroudis, K.\* 2024. **Gait Optimization for Legged Systems Through Mixed Distribution Cross-Entropy Optimization**. *IEEE-RAS International Conference on Humanoid Robots (Humanoids).*
+
+   **Abstract:** *Legged robotic systems can play an important role in real-world applications due to their superior load-bearing capabilities, enhanced autonomy, and effective navigation on uneven terrain. They offer an optimal trade-off between mobility and payload capacity, excelling in diverse environments while maintaining efficiency in transporting heavy loads. However, planning and optimizing gaits and gait sequences for these robots presents significant challenges due to the complexity of their dynamic motion and the numerous optimization variables involved. Traditional trajectory optimization methods address these challenges by formulating the problem as an optimization task, aiming to minimize cost functions, and to automatically discover contact sequences. Despite their structured approach, optimization-based methods face substantial difficulties, particularly because such formulations result in highly nonlinear and difficult to solve problems. To address these limitations, we propose CrEGOpt, a bi-level optimization method that combines traditional trajectory optimization with a black-box optimization scheme. CrEGOpt at the higher level employs the Mixed Distribution Cross-Entropy Method to optimize both the gait sequence and the phase durations, thus simplifying the lower level trajectory optimization problem. This approach allows for fast solutions of complex gait optimization problems. Extensive evaluation in simulated environments demonstrates that CrEGOpt can find solutions for biped, quadruped, and hexapod robots in under 10 seconds. This novel bi-level optimization scheme offers a promising direction for future research in automatic contact scheduling.*
+
+   *\* Equal Contribution*
+
+   [(view online)](https://arxiv.org/abs/2410.02891)
 
 ### 4. Asimakopoulos, K., Androutsopoulos, A., Vrahatis, M. and Chatzilygeroudis, K. 2024. **Effective Kinodynamic Planning and Exploration through Quality Diversity and Trajectory Optimization**. *The 18th learning and intelligent optimization conference (LION).*
 
