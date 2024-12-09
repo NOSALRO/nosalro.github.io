@@ -3,6 +3,10 @@
     -navigation
 ---
 
+## 26th November 2024
+
+Our paper **"Integrating Trajectory Optimization in Quality-Diversity for Kinodynamic Motion Planning"** by *Asimakopoulos, K., and Chatzilygeroudis, K.* has been accepted at the *[11th International Conference on Automation, Robotics, and Applications (ICARA 2025)](https://icara.us/)*. More information on our paper [here](publications.md). See you at Zagred in February 2025!
+
 ## 24th October 2024
 
 Our paper **"RobotDART: a versatile robot simulator for robotics and machine learning researchers"** by *Chatzilygeroudis, K., Totsila, D., and Mouret J.-B.* has been accepted at the *[Journal of Open Source Software (JOSS)](https://joss.theoj.org/)*. More information on our paper [here](publications.md). Read more about our library [here](https://nosalro.github.io/robot_dart/).
