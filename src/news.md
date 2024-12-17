@@ -3,6 +3,10 @@
     -navigation
 ---
 
+## 14th December 2024
+
+Our paper **"Sensorimotor Learning with Stability Guarantees via Autonomous Neural Dynamic Policies"** by *Dionis, T., Chatzilygeroudis, K., Modugno, V., Hadjivelichkov, D. and Kanoulas, D.* has been accepted at the *[IEEE Robotics and Automation Letters (RA-L)](https://www.ieee-ras.org/publications/ra-l)*. More information on our paper [here](publications.md).
+
 ## 26th November 2024
 
 Our paper **"Integrating Trajectory Optimization in Quality-Diversity for Kinodynamic Motion Planning"** by *Asimakopoulos, K., and Chatzilygeroudis, K.* has been accepted at the *[11th International Conference on Automation, Robotics, and Applications (ICARA 2025)](https://icara.us/)*. More information on our paper [here](publications.md). See you at Zagred in February 2025!
