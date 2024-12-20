@@ -5,7 +5,7 @@
 
 ## International Journals
 
-### 2. Dionis, T.\*, Chatzilygeroudis, K.\*, Modugno, V., Hadjivelichkov, D. and Kanoulas, D. 2024. **Sensorimotor Learning with Stability Guarantees via Autonomous Neural Dynamic Policies**. *IEEE Robotics and Automation Letters (RA-L).*
+### 2. Totsila, D.\*, Chatzilygeroudis, K.\*, Modugno, V., Hadjivelichkov, D. and Kanoulas, D. 2024. **Sensorimotor Learning with Stability Guarantees via Autonomous Neural Dynamic Policies**. *IEEE Robotics and Automation Letters (RA-L).*
 
    **Abstract:** *State-of-the-art sensorimotor learning algorithms, either in the context of reinforcement learning or imitation learning, offer policies that can often produce unstable behaviors, damaging the robot and/or the environment. Moreover, it is very difficult to interpret the optimized controller and analyze its behavior and/or performance. Traditional robot learning, on the contrary, relies on dynamical system-based policies that can be analyzed for stability/safety. Such policies, however, are neither flexible nor generic and usually work only with proprioceptive sensor states. In this work, we bridge the gap between generic neural network policies and dynamical system-based policies, and we introduce Autonomous Neural Dynamic Policies (ANDPs) that: (a) are based on autonomous dynamical systems, (b) always produce asymptotically stable behaviors, and (c) are more flexible than traditional stable dynamical system-based policies. ANDPs are fully differentiable, flexible generic-policies that accept any observation input, while ensuring asymptotic stability. Through several experiments, we explore the flexibility and capacity of ANDPs in several imitation learning tasks including experiments with image observations. The results show that ANDPs combine the benefits of both neural network-based and dynamical system-based methods.*
 
@@ -14,7 +14,7 @@
    [(view online)](https://nosalro.github.io/andps)
    [(code)](https://github.com/NOSALRO/andps)
 
-### 1. Chatzilygeroudis, K., Dionis, T., Mouret, J.-B. 2024. **RobotDART: a versatile robot simulator for robotics and machine learning researchers**. *Journal of Open Source Software (JOSS).*
+### 1. Chatzilygeroudis, K., Totsila, D., Mouret, J.-B. 2024. **RobotDART: a versatile robot simulator for robotics and machine learning researchers**. *Journal of Open Source Software (JOSS).*
 
    **Abstract:** *Robot simulation plays a pivotal role in robotics and machine learning research, offering a cost-effective and safe means to develop, validate, and benchmark algorithms in various scenarios. With the growing complexity of robotic systems and the increasing demand for data-driven approaches in machine learning, there is a pressing need for versatile and efficient robot simulators that cater to the diverse requirements of researchers. In response to this demand, we introduce RobotDART, a high-performance and versatile robot simulator designed to empower researchers in robotics and machine learning with a powerful and flexible simulation environment.*
 
