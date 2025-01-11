@@ -5,7 +5,7 @@
 
 ## 14th December 2024
 
-Our paper **"Sensorimotor Learning with Stability Guarantees via Autonomous Neural Dynamic Policies"** by *Dionis, T., Chatzilygeroudis, K., Modugno, V., Hadjivelichkov, D. and Kanoulas, D.* has been accepted at the *[IEEE Robotics and Automation Letters (RA-L)](https://www.ieee-ras.org/publications/ra-l)*. More information on our paper [here](publications.md).
+Our paper **"Sensorimotor Learning with Stability Guarantees via Autonomous Neural Dynamic Policies"** by *Totsila, D., Chatzilygeroudis, K., Modugno, V., Hadjivelichkov, D. and Kanoulas, D.* has been accepted at the *[IEEE Robotics and Automation Letters (RA-L)](https://www.ieee-ras.org/publications/ra-l)*. More information on our paper [here](publications.md).
 
 ## 26th November 2024
 
