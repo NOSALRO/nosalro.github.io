@@ -21,7 +21,11 @@
 
 **Short bio:** Konstantinos Asimakopoulos received his Integrated Master's Diploma in Electrical & Computer Engineering in 2022 from the University of Patras, Greece. While he was an undergraduate student he also worked as a translator for academic books about machine learning and artificial intelligence for Fountasbooks. Through his master's thesis he explored how to use AI to generate art and in particular music composition. In 2023 he enrolled as a PhD candidate in the department of Electrical & Computer Engineering at the University of Patras researching physics informed reinforcement learning. His research interests include robot control, machine learning and how to combine ML with traditional control.
 
-**Website:** [https://github.com/konassimako](https://github.com/konassimako)
+![Lampros Printzios](images/printzios.png){: style="width:10%"}
+
+**Short bio:** Lampros Printzios received his Integrated Master's Diploma in Electrical & Computer Engineering in 2024 from the University of Patras, Greece. Through his master's thesis he created a 3D printed robotic manipulator and developed several constrained path-planning algorithms for end-effector obstacle-free tracking. In 2024 he enrolled as a PhD candidate in the department of Electrical & Computer Engineering at the University of Patras researching accelerated methods for robot control. His research interests include robot control, machine learning and how to accelerate computations for fast robot control.
+
+**Website:** [https://www.linkedin.com/in/lampros-printzios-ab74bb237](https://www.linkedin.com/in/lampros-printzios-ab74bb237)
 
 # Alumni
 
